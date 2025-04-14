@@ -8,7 +8,6 @@ const Main = () => {
         <main className="main">
             <div className="container">
                 <div className="main__content">
-                    <Calendar />
                     <div className="cards__container">
                         <Column>
                             <Card />

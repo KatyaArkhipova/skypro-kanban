@@ -811,6 +811,10 @@ body {
   display: block;
 }
 
+.columns-container{
+  display: flex;
+}
+
 .column__title {
   padding: 0 10px;
   margin: 15px 0;
